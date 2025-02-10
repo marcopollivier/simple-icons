@@ -39,7 +39,7 @@
   "devDependencies": {
     "chalk": "^5.0.1",
     "editorconfig-checker": "4.0.2",
-    "esbuild": "0.15.6",
+    "esbuild": "0.25.0",
     "fake-diff": "1.0.0",
     "get-relative-luminance": "^1.0.0",
     "husky": "8.0.1",
